@@ -26,6 +26,6 @@ Vales use:
 
 ## Overflow
 `overflow` controls what happens when content goes outside its container.
--`visible` --- Extra content is shown outside the box(default)
--`hidden` --- Extra content is clipped and not visible  
--`scroll` --- Scrollbars are shown even if all the content is visible and nothing overflows(For strict ui/ux designs)
+- `visible` --- Extra content is shown outside the box(default)
+- `hidden` --- Extra content is clipped and not visible  
+- `scroll` --- Scrollbars are shown even if all the content is visible and nothing overflows(For strict ui/ux designs)
