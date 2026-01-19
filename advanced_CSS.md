@@ -91,7 +91,7 @@ ex:
     .card::before {
         content: "";
         position: absolute;
-        inset: 0;
+        inset: 0;(top/right/left/bottom =0)
         background: rgba(0,0,0,0.4);
         }
     .btn::before {
